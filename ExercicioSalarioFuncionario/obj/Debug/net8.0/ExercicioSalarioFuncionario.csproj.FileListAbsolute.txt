@@ -1,0 +1,14 @@
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\bin\Debug\net8.0\ExercicioSalarioFuncionario.exe
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\bin\Debug\net8.0\ExercicioSalarioFuncionario.deps.json
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\bin\Debug\net8.0\ExercicioSalarioFuncionario.runtimeconfig.json
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\bin\Debug\net8.0\ExercicioSalarioFuncionario.dll
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\bin\Debug\net8.0\ExercicioSalarioFuncionario.pdb
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.AssemblyInfo.cs
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.dll
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\refint\ExercicioSalarioFuncionario.dll
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.pdb
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ExercicioSalarioFuncionario.genruntimeconfig.cache
+C:\Users\digow\Desktop\Projetos\ExercicioSalarioFuncionario\ExercicioSalarioFuncionario\obj\Debug\net8.0\ref\ExercicioSalarioFuncionario.dll
